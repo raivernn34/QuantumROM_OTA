@@ -2,10 +2,10 @@
   "response": [
     {
       "datetime": 1800000000, 
-      "filename": "QuantumROM-V1.2.zip",
-      "id": "rastgele_bir_benzersiz_id_gir",
+      "filename": "test.update.zip",
+      "id": "quantum_test_001",
       "romtype": "unofficial",
-      "size": 2500000000,
+      "size": 356,
       "url": "https://github.com/raivernn34/QuantumROM_OTA/releases/download/update/test.update.zip",
       "version": "16"
     }
