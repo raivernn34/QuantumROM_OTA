@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1800000000, 
-      "filename": "test.update.zip",
-      "id": "quantum_test_001",
+      "datetime": 1779986400,
+      "filename": "QuantumROM_v1.1.2.zip",
+      "id": "quantum_v1_1_2",
       "romtype": "unofficial",
       "size": 356,
-      "url": "https://github.com/raivernn34/QuantumROM_OTA/releases/download/update/test.update.zip",
+      "url": "https://github.com/raivernn34/QuantumROM_OTA/releases/download/update/QuantumROM_v1.1.2.zip",
       "version": "16"
     }
   ]
