@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1717111000,
+      "datetime": 1800000000,
       "filename": "QuantumROM.zip",
       "id": "abc12345",
       "romtype": "official",
       "size": 12345678,
       "url": "https://github.com/raivernn34/QuantumROM_OTA/releases/download/v1/QuantumROM.zip",
-      "version": "1.0",
+      "version": "1.1",
       "device": "a34x"
     }
   ]
